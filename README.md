@@ -5,7 +5,9 @@
 some notebooks to help get started with Olive :)
 
 ### contents
-- [olive]()
-  - [welcome_to_olive.jl]()
-- [julia]()
+- [olive](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/olive)
+  - [welcome_to_olive.jl](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/olive/welcome_to_olive.jl)
+- [julia](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/julia)
+  - [random](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/julia/random)
+    - [less_known_jl.jl](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/julia/random/less_known_jl.jl)
 - [gattino plotting]()
