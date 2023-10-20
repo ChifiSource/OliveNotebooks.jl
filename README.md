@@ -2,8 +2,7 @@
 <img src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivenbs.png?raw=true"></img>
 </div>
 
-some notebooks to help get started with Olive :)
-
+These are various `Olive` notebooks from various projects, tutorials, and more.
 ### contents
 - [olive](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/olive)
   - [welcome_to_olive.jl](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/olive/welcome_to_olive.jl)
