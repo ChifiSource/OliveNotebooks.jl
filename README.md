@@ -18,4 +18,8 @@ These are various `Olive` notebooks from various projects, tutorials, and more.
   - [early previews](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/gattino/earlypreviews)
     - [gattino_alpha.jl](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/gattino/earlypreviews/gattino_alpha.jl)
     - [newplot.jl](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/gattino/earlypreviews/newplot.jl)
+  - [doc](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/gattino/doc)
+    - [gattino_visualizations.jl](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/gattino/doc/gattino_visualizations.jl)
+  - [examples](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/gattino/examples)
+    - [styled_multichart.jl](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/gattino/examples/styled_multichart.jl)
 - [algia](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/algia)
