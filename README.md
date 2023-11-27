@@ -9,6 +9,8 @@ These are various `Olive` notebooks from various projects, tutorials, and more.
 - [julia](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/julia)
   - [doc](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/julia/doc)
     - [01_functions.jl](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/julia/doc/01_functions.jl)
+  - [streams and files](https://github.com/ChifiSource/OliveNotebooks.jl/tree/main/julia/streams%20and%20files)
+    - [file IO in julia](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/julia/streams%20and%20files/file%20IO%20in%20julia.jl)
   - [random](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/julia/random)
     - [less_known_jl.jl](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/julia/random/less_known_jl.jl)
     - [pizza.jl](https://github.com/ChifiSource/OliveNotebooks.jl/blob/main/julia/random/pizza.jl)
